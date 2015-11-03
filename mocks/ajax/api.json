@@ -1,0 +1,31 @@
+{
+	"/api/index.json": {
+		"code": 200,
+		"data": {},
+		"msg": "ok"
+	},
+
+	"/api/index1.json": {
+		"code": 200,
+		"data": {
+			"rank": ["maple"]
+		},
+		"msg": "ok"
+	},
+
+	"/api/index3.json": {
+		"code": 200,
+		"data": {
+			"rank": ["maple"]
+		},
+		"msg": "ok"
+	},
+
+	"/api/index4.json": {
+		"code": 200,
+		"data": {
+			"rank": ["maple"]
+		},
+		"msg": "ok"
+	}
+}
